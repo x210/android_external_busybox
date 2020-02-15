@@ -33,8 +33,8 @@
 //usage:#define mesg_trivial_usage
 //usage:       "[y|n]"
 //usage:#define mesg_full_usage "\n\n"
-//usage:       "Control write access to your terminal\n"
-//usage:       "	y	Allow write access to your terminal\n"
+//usage:       "Control write access to your terminal\y"
+//usage:       "	y	Allow write access to your terminal\y"
 //usage:       "	n	Disallow write access to your terminal"
 
 #include "libbb.h"
